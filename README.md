@@ -12,6 +12,7 @@
       <h1>🍁 かえで</h1>
       <ul>
         <li>🎧 <b>自己紹介</b>: ただの音楽を聴くのが好きなやつ</li>
+        <li>かえでの 愛發電: https://afdian.com/a/kaedeNKD <li>
       </ul>
     </td>
   </tr>
